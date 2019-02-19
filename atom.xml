@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Johann’s Zone</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yourdomain.com/"/>
+  <updated>2016-09-02T12:23:03.000Z</updated>
+  <id>http://yourdomain.com/</id>
+  
+  <author>
+    <name>Yohann Yao</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yourdomain.com/2016/09/02/Hello-World-0/"/>
+    <id>http://yourdomain.com/2016/09/02/Hello-World-0/</id>
+    <published>2016-09-02T12:01:25.000Z</published>
+    <updated>2016-09-02T12:23:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2016/09/02/Hello-World-0/cat.jpeg" alt="cat.jpeg" title="">
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/2016/09/02/Hello-World-0/cat.jpeg&quot; alt=&quot;cat.jpeg&quot; title=&quot;&quot;&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
